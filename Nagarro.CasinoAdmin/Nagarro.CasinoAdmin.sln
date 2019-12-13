@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentation", "1. Presentation", "{3F616FFE-6E07-4BFD-B36B-0181B0F7E912}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Business Domain", "2. Business Domain", "{A50AFE45-8432-45D3-893D-11CF18753F5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Data", "3. Data", "{EAB2452E-385C-411D-8AD5-BE76DFBD0153}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Shared", "4. Shared", "{A4B6E435-1545-452B-9159-9E469896739C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.CasinoAdmin.Business", "Nagarro.CasinoAdmin.Business\Nagarro.CasinoAdmin.Business.csproj", "{BAACA541-CA77-4082-9D81-3AB73A4EB308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.CasinoAdmin.BusinessFacades", "Nagarro.CasinoAdmin.BusinessFacades\Nagarro.CasinoAdmin.BusinessFacades.csproj", "{8D4F75D3-D254-48E1-960A-0563C98EBFB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.CasinoAdmin.Data", "Nagarro.CasinoAdmin.Data\Nagarro.CasinoAdmin.Data.csproj", "{DDAEB196-5EAE-44A2-827D-943A99820625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.CasinoAdmin.DTOModel", "Nagarro.CasinoAdmin.DTOModel\Nagarro.CasinoAdmin.DTOModel.csproj", "{C7E1C82C-7964-45A2-A074-BF8431B68319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.CasinoAdmin.Shared", "Nagarro.CasinoAdmin.Shared\Nagarro.CasinoAdmin.Shared.csproj", "{6DA036A4-DEDB-4879-A276-42C62BEA9070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.CasinoAdmin.EntityDataModel", "Nagarro.CasinoAdmin.EntityDataModel\Nagarro.CasinoAdmin.EntityDataModel.csproj", "{FDAC1BA4-8614-4DE7-A79F-15324593A35E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.CasinoAdmin.Web.Shared", "..\..\Users\lovishsachdeva\Desktop\MVC\Day1\Framework\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\Nagarro.CasinoAdmin.Web.Shared.csproj", "{340463B8-393E-4E7E-960D-E7CF1EFD846A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.CasinoAdmin.MVCLayer", "Nagarro.CasinoAdmin.MVCLayer\Nagarro.CasinoAdmin.MVCLayer.csproj", "{77A33D18-A4D7-4BF1-AEC3-4D5D3007F72A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.WebApi", "5.WebApi", "{FA9C2DD6-D648-4EA8-9092-5E034D24E636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.CasinoAdmin.WebApi", "Nagarro.CasinoAdmin.WebApi\Nagarro.CasinoAdmin.WebApi.csproj", "{93AE89C3-4B61-43F7-AEC0-6B2D70C9F210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAACA541-CA77-4082-9D81-3AB73A4EB308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAACA541-CA77-4082-9D81-3AB73A4EB308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAACA541-CA77-4082-9D81-3AB73A4EB308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAACA541-CA77-4082-9D81-3AB73A4EB308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4F75D3-D254-48E1-960A-0563C98EBFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4F75D3-D254-48E1-960A-0563C98EBFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4F75D3-D254-48E1-960A-0563C98EBFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4F75D3-D254-48E1-960A-0563C98EBFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDAEB196-5EAE-44A2-827D-943A99820625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAEB196-5EAE-44A2-827D-943A99820625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAEB196-5EAE-44A2-827D-943A99820625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAEB196-5EAE-44A2-827D-943A99820625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E1C82C-7964-45A2-A074-BF8431B68319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E1C82C-7964-45A2-A074-BF8431B68319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E1C82C-7964-45A2-A074-BF8431B68319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E1C82C-7964-45A2-A074-BF8431B68319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA036A4-DEDB-4879-A276-42C62BEA9070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA036A4-DEDB-4879-A276-42C62BEA9070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA036A4-DEDB-4879-A276-42C62BEA9070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA036A4-DEDB-4879-A276-42C62BEA9070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDAC1BA4-8614-4DE7-A79F-15324593A35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAC1BA4-8614-4DE7-A79F-15324593A35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAC1BA4-8614-4DE7-A79F-15324593A35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAC1BA4-8614-4DE7-A79F-15324593A35E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340463B8-393E-4E7E-960D-E7CF1EFD846A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340463B8-393E-4E7E-960D-E7CF1EFD846A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340463B8-393E-4E7E-960D-E7CF1EFD846A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340463B8-393E-4E7E-960D-E7CF1EFD846A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A33D18-A4D7-4BF1-AEC3-4D5D3007F72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A33D18-A4D7-4BF1-AEC3-4D5D3007F72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A33D18-A4D7-4BF1-AEC3-4D5D3007F72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A33D18-A4D7-4BF1-AEC3-4D5D3007F72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93AE89C3-4B61-43F7-AEC0-6B2D70C9F210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AE89C3-4B61-43F7-AEC0-6B2D70C9F210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AE89C3-4B61-43F7-AEC0-6B2D70C9F210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AE89C3-4B61-43F7-AEC0-6B2D70C9F210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BAACA541-CA77-4082-9D81-3AB73A4EB308} = {A50AFE45-8432-45D3-893D-11CF18753F5A}
+		{8D4F75D3-D254-48E1-960A-0563C98EBFB9} = {A50AFE45-8432-45D3-893D-11CF18753F5A}
+		{DDAEB196-5EAE-44A2-827D-943A99820625} = {EAB2452E-385C-411D-8AD5-BE76DFBD0153}
+		{C7E1C82C-7964-45A2-A074-BF8431B68319} = {A4B6E435-1545-452B-9159-9E469896739C}
+		{6DA036A4-DEDB-4879-A276-42C62BEA9070} = {A4B6E435-1545-452B-9159-9E469896739C}
+		{FDAC1BA4-8614-4DE7-A79F-15324593A35E} = {EAB2452E-385C-411D-8AD5-BE76DFBD0153}
+		{340463B8-393E-4E7E-960D-E7CF1EFD846A} = {A4B6E435-1545-452B-9159-9E469896739C}
+		{77A33D18-A4D7-4BF1-AEC3-4D5D3007F72A} = {3F616FFE-6E07-4BFD-B36B-0181B0F7E912}
+		{93AE89C3-4B61-43F7-AEC0-6B2D70C9F210} = {FA9C2DD6-D648-4EA8-9092-5E034D24E636}
+	EndGlobalSection
+EndGlobal

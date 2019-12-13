@@ -1,0 +1,4 @@
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.Shared\bin\Debug\Nagarro.CasinoAdmin.Shared.dll
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.Shared\bin\Debug\Nagarro.CasinoAdmin.Shared.pdb
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.Shared\obj\Debug\Nagarro.CasinoAdmin.Shared.dll
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.Shared\obj\Debug\Nagarro.CasinoAdmin.Shared.pdb

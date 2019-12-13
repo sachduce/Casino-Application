@@ -1,0 +1,12 @@
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.EntityDataModel\bin\Debug\Nagarro.CasinoAdmin.EntityDataModel.dll.config
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.EntityDataModel\bin\Debug\Nagarro.CasinoAdmin.EntityDataModel.dll
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.EntityDataModel\bin\Debug\Nagarro.CasinoAdmin.EntityDataModel.pdb
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.EntityDataModel\bin\Debug\EntityFramework.dll
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.EntityDataModel\bin\Debug\EntityFramework.SqlServer.dll
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.EntityDataModel\bin\Debug\Nagarro.CasinoAdmin.Shared.dll
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.EntityDataModel\bin\Debug\Nagarro.CasinoAdmin.Shared.pdb
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.EntityDataModel\bin\Debug\EntityFramework.xml
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.EntityDataModel\bin\Debug\EntityFramework.SqlServer.xml
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.EntityDataModel\obj\Debug\Nagarro.CasinoAdmin.EntityDataModel.csprojResolveAssemblyReference.cache
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.EntityDataModel\obj\Debug\Nagarro.CasinoAdmin.EntityDataModel.dll
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.EntityDataModel\obj\Debug\Nagarro.CasinoAdmin.EntityDataModel.pdb

@@ -1,0 +1,7 @@
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.DTOModel\bin\Debug\Nagarro.CasinoAdmin.DTOModel.dll
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.DTOModel\bin\Debug\Nagarro.CasinoAdmin.DTOModel.pdb
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.DTOModel\bin\Debug\Nagarro.CasinoAdmin.Shared.dll
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.DTOModel\bin\Debug\Nagarro.CasinoAdmin.Shared.pdb
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.DTOModel\obj\Debug\Nagarro.CasinoAdmin.DTOModel.dll
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.DTOModel\obj\Debug\Nagarro.CasinoAdmin.DTOModel.pdb
+c:\begin\Nagarro.CasinoAdmin\Nagarro.CasinoAdmin.DTOModel\obj\Debug\Nagarro.CasinoAdmin.DTOModel.csprojResolveAssemblyReference.cache
